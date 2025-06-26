@@ -1,0 +1,38 @@
+{
+  "name": "interactive-salary-calculator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive developer salary calculator based on JetBrains Developer Ecosystem Survey 2024",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "salary",
+    "developer",
+    "visualization",
+    "charts"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.21",
+    "chart.js": "^4.5.0",
+    "postcss": "^8.5.6",
+    "react": "^19.1.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^3.4.17",
+    "vite": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^5.8.3"
+  }
+}
