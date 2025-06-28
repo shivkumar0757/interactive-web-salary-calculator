@@ -4,7 +4,9 @@ An interactive web-based salary calculator that visualizes developer compensatio
 
 ## 🚀 Live Demo
 
-Access the live application at: [Coming Soon]
+**Repository:** https://github.com/shivkumar0757/interactive-web-salary-calculator
+
+Access the live application at: [Deploy to Vercel/Netlify for live demo]
 
 ## 📋 Features
 
@@ -43,8 +45,8 @@ The application uses salary data from the JetBrains Developer Ecosystem Survey 2
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd interactive-web
+   git clone https://github.com/shivkumar0757/interactive-web-salary-calculator.git
+   cd interactive-web-salary-calculator
    ```
 
 2. **Install dependencies**
