@@ -8,6 +8,12 @@ An interactive web-based salary calculator that visualizes developer compensatio
 
 Access the live application at: [Deploy to Vercel/Netlify for live demo]
 
+## 📸 Application Screenshot
+
+![Interactive Salary Calculator Screenshot](./app-screenshot.png)
+
+*Interactive Developer Salary Calculator in action - showing salary distributions across different experience levels with filtering capabilities*
+
 ## 📋 Features
 
 - **Interactive Data Visualization**: Real-time salary charts based on JetBrains survey data
